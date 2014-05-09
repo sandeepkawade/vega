@@ -7,4 +7,8 @@ Step One
 Step Two
 
 
+<<<<<<< HEAD
 Step Four from Master
+=======
+Master Step Three
+>>>>>>> ad5e3a2160c04d32f4da3107979e8343cc298012
